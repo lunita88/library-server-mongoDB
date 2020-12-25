@@ -1,3 +1,4 @@
+/*
 const mysql = require("mysql");
 
 
@@ -16,3 +17,4 @@ connection.connect(error => {
 });
 
 module.exports = connection;
+*/
